@@ -1,7 +1,13 @@
 ## zaunchpad
 cyphercapital markets
 
+
 The first privacy-first launchpad. Pay with any token, settle in Zcash Shielded Pools, and claim anonymously on Solana or LayerZero.
+
+
+# Resources
+Website https://zaunchpad.com
+Docs https://docs.zaunchpad.com
 
 
 What Zaunchpad Fixes
