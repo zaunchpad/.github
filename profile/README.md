@@ -1,133 +1,260 @@
-## zaunchpad
-cyphercapital markets
+<div align="center">
 
+# 🚀 Zaunchpad
 
-The first privacy-first launchpad. Pay with any token, settle in Zcash Shielded Pools, and claim anonymously on Solana or LayerZero.
+**Cypher Capital Markets**
 
+*The first privacy-first launchpad. Pay with any token, settle in Zcash Shielded Pools, and claim anonymously on Solana or LayerZero.*
 
-# Resources
-Website https://zaunchpad.com
-Docs https://docs.zaunchpad.com
-Repo https://github.com/zaunchpad/zaunch
-X https://x.com/zaunchpad
+[![Website](https://img.shields.io/badge/Website-zaunchpad.com-blue?style=for-the-badge&logo=internet-explorer)](https://zaunchpad.com)
+[![Docs](https://img.shields.io/badge/Docs-docs.zaunchpad.com-green?style=for-the-badge&logo=book)](https://docs.zaunchpad.com)
+[![GitHub](https://img.shields.io/badge/Repo-GitHub-black?style=for-the-badge&logo=github)](https://github.com/zaunchpad/zaunch)
+[![Twitter](https://img.shields.io/badge/X-@zaunchpad-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/zaunchpad)
 
+---
 
-What Zaunchpad Fixes
-Problems with traditional token launches that put your privacy and strategy at risk
+</div>
 
-Alpha Leaks
-01. Alpha Leaks
-Early investors get exposed. Blockchain transparency reveals early investment positions to competitors and copycats.
+## 🔧 What Zaunchpad Fixes
 
-The Whale Watchers
-02. The Whale Watchers
-Privacy concerns for big players. Major investors don't want their early alpha strategies and positions publicly visible.
+> **Problems with traditional token launches that put your privacy and strategy at risk.**
 
-Liquidity Silos
-03. Liquidity Silos
-Cross-chain liquidity barriers. Traditional token launchpads can't pool liquidity from multiple blockchain networks.
+<div align="center">
 
-The Bridge Trap
-04. The Bridge Trap
-Limited claim flexibility. Token launches force you to claim on their native chain, restricting your options.
+| ❌ Problem | ✅ Solution |
+|:----------:|:----------:|
+| **Alpha Leaks** | **Shielded Transactions** |
+| **Whale Watchers** | **Privacy Protection** |
+| **Liquidity Silos** | **Cross-Chain Liquidity** |
+| **Bridge Trap** | **Flexible Claims** |
 
+</div>
 
+### 1️⃣ Alpha Leaks 🔍
+> **Early investors get exposed.**  
+> Blockchain transparency reveals early investment positions to competitors and copycats.
 
-What YOU GET
-Zaunchpad uses the Zcash Unified Shielded Pool to mathematically sever the link between capital origin and token destination.
+### 2️⃣ The Whale Watchers 🐋
+> **Privacy concerns for big players.**  
+> Major investors don't want their early alpha strategies and positions publicly visible.
 
+### 3️⃣ Liquidity Silos 💧
+> **Cross-chain liquidity barriers.**  
+> Traditional token launchpads can't pool liquidity from multiple blockchain networks.
 
-01
+### 4️⃣ The Bridge Trap 🌉
+> **Limited claim flexibility.**  
+> Token launches force you to claim on their native chain, restricting your options.
 
-Pay in any token
-Flexible payment options across multiple blockchains and assets. Contribute using ETH, USDC, NEAR, or other supported tokens from any chain.
+---
 
-02
+## ✨ What YOU GET
 
-The Shielded Settlement
-All transactions protected by Zcash's privacy-preserving technology. Your contributions are completely shielded from public blockchain surveillance.
+<div align="center">
 
-03
+### 🛡️ **Zcash Unified Shielded Pool** 🛡️
 
-Claim via ZK Proof Tickets
-Claim tokens on Solana using zero-knowledge proof tickets. No on-chain link between your funding source and claim destination.
+*Mathematically sever the link between capital origin and token destination*
 
+</div>
 
+<div align="center">
 
-Technology Stack
-Built on unstoppable private cross-chain infrastructure.
+| Feature | Description |
+|:------:|:-----------|
+| 💰 **Pay in Any Token** | Flexible payment options across multiple blockchains |
+| 🛡️ **Shielded Settlement** | Complete privacy protection from blockchain surveillance |
+| 🎫 **ZK Proof Tickets** | Zero-knowledge proof tickets for anonymous claiming |
 
-ZCASH
-https://z.cash
-Settles into shielded pools and price in Zcash.
+</div>
 
-NEAR Intents
-https://near-intents.org
+### 💰 1️⃣ Pay in Any Token
+```
+✨ Flexible payment options across multiple blockchains and assets
+📦 Contribute using ETH, USDC, NEAR, or other supported tokens
+🌐 From any chain - no restrictions
+```
+
+### 🛡️ 2️⃣ The Shielded Settlement
+```
+🔒 All transactions protected by Zcash's privacy-preserving technology
+👻 Your contributions are completely shielded
+🚫 No public blockchain surveillance
+```
+
+### 🎫 3️⃣ Claim via ZK Proof Tickets
+```
+🔐 Claim tokens on Solana using zero-knowledge proof tickets
+🔗 No on-chain link between funding source and claim destination
+🌍 Bridge via omni token to Layer Zero OFT supported chains
+```
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+**Built on unstoppable private cross-chain infrastructure**
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🔐 Zcash
+**Shielded Pool Settlement**
+
+[![Zcash](https://img.shields.io/badge/Zcash-000000?style=flat-square&logo=zcash&logoColor=FFB923)](https://z.cash)
+
+Settles into shielded pools and price in Zcash
+
+</td>
+<td align="center" width="33%">
+
+### 🌉 NEAR Intents
+**Cross-Chain Swaps**
+
+[![NEAR](https://img.shields.io/badge/NEAR-000000?style=flat-square&logo=near&logoColor=00EC8B)](https://near-intents.org)
+
 Cross-chain swaps to deposits in any chains and from Zcash shielded pools to Solana
 
-Solana
-https://solana.com
+</td>
+<td align="center" width="33%">
+
+### ⚡ Solana
+**Liquidity Layer**
+
+[![Solana](https://img.shields.io/badge/Solana-000000?style=flat-square&logo=solana&logoColor=9945FF)](https://solana.com)
+
 Liquidity layer, tokens originally minted using launchpads like Meteora
 
-Phala Network
-https://phala.com
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### 🔒 Phala Network
+**TEE Verification**
+
+[![Phala](https://img.shields.io/badge/Phala-000000?style=flat-square&logo=phala-network&logoColor=FF6B6B)](https://phala.com)
+
 TEE for verifying NEAR Intents ZCash cross-chain transactions and generating zkSNARK proofs
 
-Circom
-Circom
-For generating zkSnark proofs for verifying NEAR Intents based ZCash cross chain transactions
+</td>
+<td align="center" width="33%">
 
-TukTuk by Helium
-https://tuktuk.funTwo powerful workflows: buying tokens privately and creating your own launch
+### ⚙️ Circom
+**zkSNARK Proofs**
 
-### Buying Tokens
+[![Circom](https://img.shields.io/badge/Circom-000000?style=flat-square&logo=circle&logoColor=6366F1)](https://github.com/iden3/circom)
 
-1
-Deposit with any asset
-Using NEAR Intents, the system automatically swaps your deposit to Zcash based on ticket amount. Support for ETH, USDC, NEAR, and more.
+For generating zkSNARK proofs for verifying NEAR Intents based ZCash cross chain transactions
 
+</td>
+<td align="center" width="33%">
 
-2
-ZK-SNARK proof generation
-Generates a zero-knowledge proof that acts as an IOU of predetermined amount at the mint price. This proof is your claim ticket.
+### 🚁 TukTuk by Helium
+**Solana Automation**
 
+[![TukTuk](https://img.shields.io/badge/TukTuk-000000?style=flat-square&logo=helicopter&logoColor=00D9FF)](https://tuktuk.fun)
 
-3
-Capital allocation
-Allocated capital is deposited into the Meteora pool, providing liquidity for the token launch while maintaining your privacy.
-
-
-4
-Flexible claiming
-With the claim system via proofs, you can either claim on Solana or bridge via omni token to claim on your desired Layer Zero OFT supported
 Solana automation framework for taking Solana liquidity and putting into Meteora contracts
 
-### Create Token Launch
-1
-Set pricing
-Outline price and number of tokens per Zcash. Define your token economics and allocation strategy.
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Two Powerful Workflows
+
+<div align="center">
+
+### 🛒 Buying Tokens | 🎨 Creating Launches
+
+</div>
+
+---
+
+### 🛒 Buying Tokens Privately
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[💰 Deposit Any Asset] --> B[🔐 Generate ZK Proof]
+    B --> C[💧 Allocate to Pool]
+    C --> D[🎫 Claim Anonymously]
+```
+
+</div>
+
+#### 1️⃣ 💰 Deposit with Any Asset
+> Using **NEAR Intents**, the system automatically swaps your deposit to Zcash based on ticket amount.
+> 
+> **Supported Assets:** ETH, USDC, NEAR, and more
+
+#### 2️⃣ 🔐 ZK-SNARK Proof Generation
+> Generates a **zero-knowledge proof** that acts as an IOU of predetermined amount at the mint price.
+> 
+> **This proof is your claim ticket** 🎫
+
+#### 3️⃣ 💧 Capital Allocation
+> Allocated capital is deposited into the **Meteora pool**, providing liquidity for the token launch while maintaining your privacy.
+
+#### 4️⃣ 🎫 Flexible Claiming
+> With the claim system via proofs, you can either:
+> - ✅ Claim on **Solana**
+> - ✅ Bridge via **omni token** to claim on your desired **Layer Zero OFT** supported chain
+
+---
+
+### 🎨 Create Token Launch
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[💰 Set Pricing] --> B[🌐 Multi-Chain Config]
+    B --> C[⏰ Timeline Setup]
+    C --> D[🛡️ Min Requirements]
+```
+
+</div>
+
+#### 1️⃣ 💰 Set Pricing
+> Outline price and number of tokens per Zcash.
+> 
+> **Define your token economics and allocation strategy.**
+
+#### 2️⃣ 🌐 Multi-chain Configuration
+> Choose whether to enable **Layer Zero** for multichain claims.
+> 
+> **Select which supported chains** your token can be claimed on.
+
+#### 3️⃣ ⏰ Timeline Setup
+> Define how long the token sale runs, when it starts, and when the claim period begins.
+> 
+> **Set specific dates and durations.**
+
+#### 4️⃣ 🛡️ Minimum Requirements
+> Set minimum thresholds for successful token launch and claim eligibility.
+> 
+> **Protect both you and your investors.**
+
+---
+
+<div align="center">
+
+---
+
+### 🌟 Built with ❤️ by **Cypher Capital Markets** 🌟
 
 
-2
-Multi-chain configuration
-Choose whether to enable Layer Zero for multichain claims and select which supported chains your token can be claimed on.
+**🚀 Launch your token with complete privacy and cross-chain flexibility 🚀**
 
+---
 
-3
-Timeline setup
-Define how long the token sale runs, when it starts, and when the claim period begins. Set specific dates and durations.
-
-
-4
-Minimum requirements
-Set minimum thresholds for successful token launch and claim eligibility. Protect both you and your investors.
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
