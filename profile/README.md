@@ -8,6 +8,8 @@ The first privacy-first launchpad. Pay with any token, settle in Zcash Shielded 
 # Resources
 Website https://zaunchpad.com
 Docs https://docs.zaunchpad.com
+Repo httpa://github.com/zaunchpad/zaunch
+X https://x.com/zaunchpad
 
 
 What Zaunchpad Fixes
